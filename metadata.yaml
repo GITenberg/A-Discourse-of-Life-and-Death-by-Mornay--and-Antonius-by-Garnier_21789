@@ -1,0 +1,42 @@
+_repo: A-Discourse-of-Life-and-Death-by-Mornay--and-Antonius-by-Garnier_21789
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Pembroke, Mary Sidney Herbert, Countess of
+    birthdate: 1561
+    deathdate: 1621
+    gutenberg_agent_id: '24892'
+    url: http://www.gutenberg.org/2009/agents/24892
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Sidney
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Mornay, Philippe de, seigneur du Plessis-Marly
+    birthdate: 1549
+    deathdate: 1623
+    gutenberg_agent_id: '24890'
+    url: http://www.gutenberg.org/2009/agents/24890
+  - agent_name: Garnier, Robert
+    alias: Garnier, R. (Robert)
+    birthdate: 1544
+    deathdate: 1590
+    gutenberg_agent_id: '24891'
+    url: http://www.gutenberg.org/2009/agents/24891
+description: ''
+gutenberg_issued: '2007-06-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21789'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Death -- Early works to 1800'
+- !lcsh 'Antonius, Marcus, 83?-30 B.C. -- Drama'
+- !lcc 'BD'
+- !lcc 'PQ'
+title: A Discourse of Life and Death, by Mornay; and  Antonius by Garnier
+url: http://www.gutenberg.org/ebooks/21789
